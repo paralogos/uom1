@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("hi it14222");
 
 		System.out.println("hello 2");
+		System.out.println("bye");
 
 
 	}
